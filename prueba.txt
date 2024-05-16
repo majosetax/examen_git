@@ -10,6 +10,13 @@ modificacion main y QA
 modificacion QA 1
 
 modificacion QA 2
+<<<<<<< HEAD
 >>>>>>> Qa_branch
 
 modificacion main y PROD
+=======
+
+modificacion PROD 1
+
+modificacion PROD 2
+>>>>>>> Prod_branch
