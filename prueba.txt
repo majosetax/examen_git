@@ -4,4 +4,10 @@ modificacicon main
 modificacion dev_branch
 >>>>>>> Dev_branch
 
+<<<<<<< HEAD
 modificacion main y QA
+=======
+modificacion QA 1
+
+modificacion QA 2
+>>>>>>> Qa_branch
